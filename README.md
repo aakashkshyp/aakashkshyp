@@ -37,6 +37,10 @@ A dashboard created using Power BI for analyzing internet banking transactions.
 Analysis of insurance policies using Tableau for visualization.
 [GitHub Repository](https://github.com/yourusername/insurance-policy-analysis)
 
+### Healthcare Analysis
+Analysis of Healthcare insurance policies using Power Bi for visualization.
+[GitHub Repository](https://github.com/aakashkshyp/HealthCare_PowerBi_Project)
+
 
 ## Education
 - **Bachelor of Engineering** in Electrical and Electronics Engineering, *New Horizon College of Engineering, Bengaluru* (2016-2020)
