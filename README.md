@@ -19,12 +19,24 @@ Looking forward to connecting and exploring opportunities where I can contribute
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white)                                      | [Internet Banking Dashboard](https://github.com/yourusername/internet-banking-dashboard)|
-| ![Tableau](https://img.shields.io/badge/-Tableau-0769AD?style=for-the-badge&logo=Tableau&logoColor=white)                                           | [Insurance Policy Analysis](https://github.com/yourusername/insurance-policy-analysis)|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)                                               | [Data Analysis Scripts](https://github.com/yourusername/data-analysis-scripts)|
-| ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)                                                     | [Database Queries](https://github.com/yourusername/database-queries)|
+| ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white)                                      | Internet Banking Dashboard |
+| ![Tableau](https://img.shields.io/badge/-Tableau-0769AD?style=for-the-badge&logo=Tableau&logoColor=white)                                           | Insurance Policy Analysis |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)                                               | Data Analysis Scripts |
+| ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)                                                     | Database Queries |
+
 
 ---
+
+## Projects
+
+### Internet Banking Dashboard
+A dashboard created using Power BI for analyzing internet banking transactions.
+[GitHub Repository](https://github.com/yourusername/internet-banking-dashboard)
+
+### Insurance Policy Analysis
+Analysis of insurance policies using Tableau for visualization.
+[GitHub Repository](https://github.com/yourusername/insurance-policy-analysis)
+
 
 ## Education
 - **Bachelor of Engineering** in Electrical and Electronics Engineering, *New Horizon College of Engineering, Bengaluru* (2016-2020)
