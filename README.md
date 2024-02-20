@@ -41,13 +41,6 @@ Analysis of insurance policies using Tableau for visualization.
 Analysis of Healthcare insurance policies using Power Bi for visualization.
 [GitHub Repository](https://github.com/aakashkshyp/HealthCare_PowerBi_Project)
 
-## Projects
-
-| Healthcare Analysis                                    | Description                          |
-|---------------------------------------------------|--------------------------------------|
-|  Healthcare Analysis![Project A Image](["C:\Users\akkii\OneDrive\project_image.png"](https://drive.google.com/file/d/1wVd7UoIMTetV7apuDTg1d-N7nHlbfILV/view?usp=sharing)) | Analysis of Healthcare insurance policies using Power Bi for visualization.|
-| Project B ![Project B Image](image_url_project_b) | Description of Project B             |
-
 
 ## Education
 - **Bachelor of Engineering** in Electrical and Electronics Engineering, *New Horizon College of Engineering, Bengaluru* (2016-2020)
