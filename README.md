@@ -1,5 +1,4 @@
 # Hello, I'm Aakash Kumar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-kumar-a03006182/)
 
 I'm a dedicated **Data Analyst** with a keen interest in unraveling insights from complex datasets. Over the past couple of years, I've delved deep into the world of data analytics, harnessing various tools and technologies to extract meaningful information. My journey began at New Horizon College of Engineering, Bengaluru, where I pursued a degree in Electrical and Electronics Engineering, laying the foundation for my analytical prowess.
 
@@ -48,6 +47,6 @@ Analysis of Healthcare insurance policies using Power Bi for visualization.
 ---
 
 ## Contact Information
-- **Email:** akkiikashyapp@gmail.com
-- **Phone:** +91-7619410833
-- **LinkedIn:** [linkedin.com/in/aakash-kumar-a03006182](https://www.linkedin.com/in/aakash-kumar-a03006182/)
+- **Email:** akkiikashyap276@gmail.com
+- **Phone:** +91-9999732350
+
