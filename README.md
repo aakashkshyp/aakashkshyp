@@ -47,6 +47,6 @@ Analysis of Healthcare insurance policies using Power Bi for visualization.
 ---
 
 ## Contact Information
-- **Email:** akkiikashyap276@gmail.com
-- **Phone:** +91-9999732350
+- **Email:** akkiikashyapp@gmail.com
+- **Phone:** +91-7619410833
 
